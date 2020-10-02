@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/abha-molri-3b493875',
+        linkedin: 'abha-molri-3b493875',
         twitter: '',
         github: '',
     },
